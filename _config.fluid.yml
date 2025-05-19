@@ -988,7 +988,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/luomuqingyun", tip: "GitHub" }
     # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", link: "https://mmbiz.qpic.cn/mmbiz_jpg/sCBia35SsvPZQYRBzSmyGrKdGsl7F5Biab9qZeOZCwPMsM1WfDJULoWH6Mnq7DjWBzxns60IK5H6SR14NO9LR9iaw/640?wx_fmt=jpeg",tip: "/img/favicon.png" }
+    - { class: "iconfont icon-wechat-fill", link: "https://mmbiz.qpic.cn/mmbiz_jpg/sCBia35SsvPZQYRBzSmyGrKdGsl7F5Biab9qZeOZCwPMsM1WfDJULoWH6Mnq7DjWBzxns60IK5H6SR14NO9LR9iaw/640?wx_fmt=jpeg",tip: "WeChat" }
 
 
 #---------------------------
