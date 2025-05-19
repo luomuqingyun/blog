@@ -1,0 +1,55 @@
+name: Deploy Hexo Blog
+
+on:
+  push:
+    branches:
+      - main  # 当 main 分支收到推送时触发
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    # defaults:
+      # run:
+        # working-directory: ./blog  # 全局设置工作目录
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          # token: ${{ secrets.PERSONAL_TOKEN }}  # 对私有子模块必要
+          # submodules: true
+          # path: ./blog  # 关键修改：直接将代码检出到 blog/ 目录
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Debug Directory Structure
+        run: |
+          echo "当前工作目录: $PWD"
+          ls -R
+          if [ -f "package.json" ]; then
+            echo "✅ package.json 存在于 blog/ 目录"
+          else
+            echo "❌ 错误：未找到 package.json"
+            exit 1
+          fi    
+      - name: Install Dependencies
+        run: |
+          npm install -g hexo-cli  
+          npm install
+        
+      - name: Build
+        working-directory: ./blog
+        run: |
+          hexo clean
+          hexo generate
+          
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: luomuqingyun/luomuqingyun.github.io
+          publish_branch: main
+          publish_dir: ./public
