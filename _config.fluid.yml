@@ -990,8 +990,8 @@ about:
     # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     # - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" } # 修改最好的做法是将主题仓库copy之后进行设置
     # - { class: "iconfont icon-wechat-fill",  tip: "WeChat", data-qrcode: "img/WeChat.jpg" }
-    - { class: "iconfont icon-wechat-fill", link: "https://cloudflare-imgbed-40g.pages.dev/file/1747669616772_一颗糯米2.jpg",tip: "WeChat" }
-    # - { class: "iconfont icon-wechat-fill", link: "https://github.com/luomuqingyun/pic/blob/main/img/%E8%90%BD%E6%9C%A8%E9%9D%92%E4%BA%91-.jpg",tip: "WeChat" }
+    # - { class: "iconfont icon-wechat-fill", link: "https://cloudflare-imgbed-40g.pages.dev/file/1747669616772_一颗糯米2.jpg",tip: "WeChat" }
+    - { class: "iconfont icon-wechat-fill", link: "https://raw.githubusercontent.com/luomuqingyun/pic/main/img/202410291612312.png",tip: "WeChat" }
 
 
 #---------------------------
