@@ -8,7 +8,7 @@ category:
 tags:
   - 编程经验
 excerpt:
-  - 详见完整内容
+  - BUG调试记录
 ---
 占位
 ## 记一个python程序调试警告

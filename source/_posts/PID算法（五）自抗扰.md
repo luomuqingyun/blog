@@ -5,10 +5,12 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 算法
 tags:
   - 编程经验
+  - 算法应用
 excerpt:
-  - 详见完整内容
+  - PID算法
 ---
 >***幸福的家庭都是相似的，不幸的家庭各有各的不幸。***
 >

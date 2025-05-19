@@ -5,10 +5,11 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 电子技术
 tags:
-  - 编程经验
+  - 技术原理
 excerpt:
-  - 详见完整内容
+  - 单片机CAN总线知识
 ---
 ![](https://files.mdnice.com/user/38598/ab6dc1e1-ff02-46f9-863f-9a2eb0f39eda.png)
 

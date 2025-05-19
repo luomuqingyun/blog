@@ -4,11 +4,11 @@ author: luomuqingyun
 date: 2025-05-19
 comments: true
 category:
-  - 编程
+  - HEXO
 tags:
-  - 编程经验
+  - HEXO
 excerpt:
-  - 详见完整内容
+  - HEXO使用
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 

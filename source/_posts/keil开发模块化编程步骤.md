@@ -8,7 +8,7 @@ category:
 tags:
   - 编程经验
 excerpt:
-  - 详见完整内容
+  - keil模块化编程
 ---
 占位
 ## 搭建keil模块化编程工程

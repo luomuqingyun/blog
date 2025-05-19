@@ -5,10 +5,12 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 单片机
 tags:
   - 编程经验
+  - C51
 excerpt:
-  - 详见完整内容
+  - C51单片机SPI通信
 ---
 ![关注，了解更多知识](https://files.mdnice.com/user/38598/6816d023-b102-440f-8ad0-095db85b4f5d.png)
 ## SPI总线初识

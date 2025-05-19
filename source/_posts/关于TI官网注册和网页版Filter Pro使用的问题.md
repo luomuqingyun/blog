@@ -4,11 +4,11 @@ date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
-  - 编程
+  - 工具
 tags:
-  - 编程经验
+  - 开发工具
 excerpt:
-  - 详见完整内容
+  - Filter Pro软件说明
 ---
 占位
 ## 关于Filter Pro软件电路参数问题

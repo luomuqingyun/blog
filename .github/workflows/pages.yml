@@ -15,8 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
+        # with:
+          # submodules: recursive # 如过使用npm install --save hexo-theme-fluid安装应该不需要这句了
           # token: ${{ secrets.PERSONAL_TOKEN }}  # 对私有子模块必要
           # submodules: true
           # path: ./blog  # 关键修改：直接将代码检出到 blog/ 目录
@@ -44,3 +44,11 @@ jobs:
           external_repository: luomuqingyun/luomuqingyun.github.io
           publish_branch: main
           publish_dir: ./public
+
+
+
+
+
+
+
+        

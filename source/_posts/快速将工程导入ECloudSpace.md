@@ -4,11 +4,11 @@ date: 2025-05-19 16:36:43
 author: luomuqingyun
 comments: true
 category:
-  - 编程
+  - 工具
 tags:
-  - 编程经验
+  - 开发工具
 excerpt:
-  - 详见完整内容
+  - 单片机学习开发一体化平台使用说明
 ---
 ## 为什么要拥抱HAL库
 

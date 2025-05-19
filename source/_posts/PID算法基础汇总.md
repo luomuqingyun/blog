@@ -5,10 +5,12 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 算法
 tags:
   - 编程经验
+  - 算法应用
 excerpt:
-  - 详见完整内容
+  - PID算法
 ---
 ## PID算法基础汇总
 

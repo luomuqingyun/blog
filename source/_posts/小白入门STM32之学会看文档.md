@@ -5,10 +5,12 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 单片机
 tags:
   - 编程经验
+  - STM32
 excerpt:
-  - 详见完整内容
+  - 快速入门STM32
 ---
 `[TOC]`
 
