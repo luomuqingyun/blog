@@ -1,8 +1,15 @@
 ---
 title: keil开发模块化编程步骤
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 占位
 ## 搭建keil模块化编程工程
 在[单片机开发模块化编程实例详解](https://mp.weixin.qq.com/s?__biz=MzI1OTQ4MTg4Ng==&mid=2247485647&idx=1&sn=694e1bf1034df905d770d49915efaeb4&chksm=ea7900bedd0e89a81a2471ee82be5f73ca3ba5c8afc94fe16b839e1832e64a6184c17f1ad230&token=765272341&lang=zh_CN#rd)这篇文章中介绍了使用C语言进行模块化编程的原理，但没有讲解怎么使用keil软件进行搭建工程，部分初学者尝试时可能会遇到了一些问题，导致工程创建失败，这篇文章我就来讲解一下整个工程搭建的完整步骤。

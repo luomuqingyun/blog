@@ -1,8 +1,15 @@
 ---
 title: Qiling代码框架
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ```
 ├─.github GITHUB仓库信息，不用管
 │  │  PULL_REQUEST_TEMPLATE.md

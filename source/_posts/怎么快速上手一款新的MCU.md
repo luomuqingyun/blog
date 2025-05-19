@@ -1,8 +1,15 @@
 ---
 title: 怎么快速上手一款新的MCU
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 占位
 
 

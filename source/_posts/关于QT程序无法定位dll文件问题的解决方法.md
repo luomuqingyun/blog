@@ -1,8 +1,15 @@
 ---
 title: 关于QT程序无法定位dll文件问题问题解决方法
 date: 2025-05-19 14:51:09
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ## 引言
 `本文主要介绍运行使用QT编译好的程序报无法定位动态链接库错误的几种常用解决方案，以及本次特殊遇到的libpng16-16.dll中调用inflateReset2函数引发的问题解决思路。希望能够帮助遇到类似问题的朋友。`
 

@@ -1,8 +1,15 @@
 ---
 title: 51单片机进阶开发（五）之IIC通信
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ![关注，了解更多知识](https://files.mdnice.com/user/38598/6816d023-b102-440f-8ad0-095db85b4f5d.png)
 ## SPI总线初识
 上篇内容我们介绍了IIC总线通信接口及其协议，这一篇文章我们介绍另一种项目开发中非常常见的通信接口——SPI总线。

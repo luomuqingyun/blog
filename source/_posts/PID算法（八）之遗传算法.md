@@ -1,8 +1,15 @@
 ---
 title: PID算法（八）之遗传算法
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ## 遗传算法
 
 ![遗传算法关系图](https://files.mdnice.com/user/38598/2fb4337b-7a92-4639-8e5c-697fd96bb87f.png)

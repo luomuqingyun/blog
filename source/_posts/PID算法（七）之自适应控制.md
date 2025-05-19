@@ -1,8 +1,15 @@
 ---
 title: PID算法（七）之自适应控制
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ## 参数自整定
 
 ![PID参数自整定控制](https://files.mdnice.com/user/38598/fc5aa8d0-ea59-4dac-9622-0e54e903408f.png)

@@ -1,8 +1,15 @@
 ---
 title: 小白入门STM32之学会看文档
 date: 2025-05-19 14:42:00
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 `[TOC]`
 
 ## 小白如何入门STM32

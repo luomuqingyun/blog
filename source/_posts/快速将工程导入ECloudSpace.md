@@ -1,8 +1,15 @@
 ---
 title: 快速将工程导入ECloudSpace
 date: 2025-05-19 16:36:43
+author: luomuqingyun
+comments: true
+category:
+  - 编程
+tags:
+  - 编程经验
+excerpt:
+  - 详见完整内容
 ---
-
 ## 为什么要拥抱HAL库
 
 ![STM32CUBE开发生态圈](https://raw.githubusercontent.com/luomuqingyun/pic/main/img/202404272201363.png)
