@@ -16,6 +16,11 @@
 # Global
 #---------------------------
 
+# markdown 解析配置
+markdown:
+  plugins:
+    - '@neilsustc/markdown-it-katex'
+
 # 用于浏览器标签的图标
 # Icon for browser tab
 # favicon: /img/fluid.png

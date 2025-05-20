@@ -105,23 +105,27 @@ deploy:
   repo: git@github.com:luomuqingyun/luomuqingyun.github.io.git
   branch: main
 
-# markdown 解析配置
-markdown:
-  preset: 'default'
-  render:
-    html: true
-    xhtmlOut: false
-    breaks: true
-    linkify: true
-    typographer: true
-  plugins:
-    - '@neilsustc/markdown-it-katex'
-  anchors:
-    level: 2
-    collisionSuffix: ''
-    permalink: false
-    permalinkClass: 'header-anchor'
-    permalinkSide: 'left'
-    permalinkSymbol: '¶'
-    case: 0
-    separator: '-'
+# # markdown 解析配置
+# markdown:
+#   plugins:
+#     - '@neilsustc/markdown-it-katex'
+
+# markdown:
+#   preset: 'default'
+#   render:
+#     html: true
+#     xhtmlOut: false
+#     breaks: true
+#     linkify: true
+#     typographer: true
+#   plugins:
+#     - '@neilsustc/markdown-it-katex'
+#   anchors:
+#     level: 2
+#     collisionSuffix: ''
+#     permalink: false
+#     permalinkClass: 'header-anchor'
+#     permalinkSide: 'left'
+#     permalinkSymbol: '¶'
+#     case: 0
+#     separator: '-'
