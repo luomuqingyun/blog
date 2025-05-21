@@ -2,7 +2,7 @@
 title: PID算法（一）之简介
 date: 2025-05-19 14:42:00
 author: luomuqingyun
-comments: true
+comments: fault
 # mathjax: true
 math: true
 mermaid: true
