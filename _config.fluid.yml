@@ -526,6 +526,11 @@ footer:
 # Home Page
 #---------------------------
 index:
+  title: 
+    # 首页标题，留空则使用 hexo config 中的 title
+    # Home page title, if empty, it is based on `title` in hexo config
+    text: "落木青云"
+
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
   # banner_img: /img/default.png
@@ -1137,7 +1142,8 @@ links:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
+    # type: disqus
+    type: gitalk
 
 
 #---------------------------
