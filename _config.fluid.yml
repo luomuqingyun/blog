@@ -18,8 +18,24 @@
 
 # markdown 解析配置
 markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
   plugins:
-    - '@neilsustc/markdown-it-katex'
+    - '@iktakahiro/markdown-it-katex'
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
 
 # 用于浏览器标签的图标
 # Icon for browser tab
