@@ -526,7 +526,7 @@ footer:
 # Home Page
 #---------------------------
 index:
-  title: 
+  title: # 首页标题设置无效，如果需要设置首页标题请在 hexo config 中设置 title
     # 首页标题，留空则使用 hexo config 中的 title
     # Home page title, if empty, it is based on `title` in hexo config
     text: "落木青云"
