@@ -21,25 +21,37 @@
 #   plugins:
 #     - '@traptitech/markdown-it-katex'
 
-# markdown:
-  # preset: 'default'
-  # render:
-  #   html: true
-  #   xhtmlOut: false
-  #   breaks: true
-  #   linkify: true
-  #   typographer: true
-  # plugins:
-  #   - '@traptitech/markdown-it-katex'
-  # anchors:
-  #   level: 2
-  #   collisionSuffix: ''
-  #   permalink: false
-  #   permalinkClass: 'header-anchor'
-  #   permalinkSide: 'left'
-  #   permalinkSymbol: '¶'
-  #   case: 0
-  #   separator: '-'
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+
+  mathjax:
+  tags: none
+  single_dollars: true
+  cjk_width: 0.9
+  normal_width: 0.6
+  append_css: true
+  every_page: false
+  extension_options:
+    tex:
+      extension: '.html'
+    svg:
+      fontCache: 'global'
 
 # 用于浏览器标签的图标
 # Icon for browser tab
