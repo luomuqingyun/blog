@@ -27,10 +27,10 @@ jobs:
           node-version: '20'
 
       - name: Install Dependencies
-        run: npm install
-        # run: |
-        #   npm install -g hexo-cli  
-        #   npm install
+        # run: npm install
+        run: |
+          npm install -g hexo-cli  
+          npm install
         
       - name: Build
         # working-directory: ./blog
