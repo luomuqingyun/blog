@@ -1,10 +1,10 @@
 ---
-title: PID算法（五）自抗扰
+title: PID算法（五）之自抗扰
 date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 mathjax: true
-# math: true
+math: true
 mermaid: true
 category:
   - 编程

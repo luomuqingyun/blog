@@ -1,10 +1,10 @@
 ---
-title: PID算法3
+title: PID算法（三）之串级PID
 date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 mathjax: true
-# math: true
+math: true
 mermaid: true
 category:
   - 编程
