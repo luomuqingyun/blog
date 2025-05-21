@@ -17,10 +17,9 @@
 #---------------------------
 
 # markdown 解析配置
-
-markdown:
-  plugins:
-    - '@traptitech/markdown-it-katex'
+# markdown:
+#   plugins:
+#     - '@traptitech/markdown-it-katex'
 
 # markdown:
   # preset: 'default'
@@ -771,8 +770,8 @@ post:
     specific: false
 
     # Options: mathjax | katex
-    # engine: mathjax
-    engine: katex
+    engine: mathjax
+    # engine: katex
 
   # 流程图，基于 mermaid-js，具体请见：https://hexo.fluid-dev.com/docs/guide/#mermaid-流程图
   # Flow chart, based on mermaid-js, see: https://hexo.fluid-dev.com/docs/en/guide/#mermaid
@@ -1029,7 +1028,7 @@ about:
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
   name: "落木青云"
-  intro: "这里拥有有趣的灵魂"
+  intro: "在这里寻找有趣的灵魂"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:

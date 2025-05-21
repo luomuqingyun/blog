@@ -106,9 +106,9 @@ deploy:
   branch: main
 
 # # markdown 解析配置
-markdown:
-  plugins:
-    - '@traptitech/markdown-it-katex'
+# markdown:
+#   plugins:
+#     - '@traptitech/markdown-it-katex'
 
 # markdown:
 #   preset: 'default'
