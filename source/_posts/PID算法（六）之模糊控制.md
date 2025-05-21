@@ -3,7 +3,7 @@ title: PID算法（六）之模糊控制
 date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
-mathjax: true
+# mathjax: true
 math: true
 mermaid: true
 category:
