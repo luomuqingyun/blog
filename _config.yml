@@ -106,9 +106,9 @@ deploy:
   branch: main
 
 # # markdown 解析配置
-# markdown:
-#   plugins:
-#     - '@neilsustc/markdown-it-katex'
+markdown:
+  plugins:
+    - '@iktakahiro/markdown-it-katex'
 
 # markdown:
 #   preset: 'default'
@@ -119,7 +119,7 @@ deploy:
 #     linkify: true
 #     typographer: true
 #   plugins:
-#     - '@neilsustc/markdown-it-katex'
+#     - '@iktakahiro/markdown-it-katex'
 #   anchors:
 #     level: 2
 #     collisionSuffix: ''

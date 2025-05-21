@@ -17,7 +17,7 @@
 #---------------------------
 
 # markdown 解析配置
-markdown:
+# markdown:
   # preset: 'default'
   # render:
   #   html: true
@@ -25,8 +25,8 @@ markdown:
   #   breaks: true
   #   linkify: true
   #   typographer: true
-  plugins:
-    - '@iktakahiro/markdown-it-katex'
+  # plugins:
+  #   - '@iktakahiro/markdown-it-katex'
   # anchors:
   #   level: 2
   #   collisionSuffix: ''
