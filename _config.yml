@@ -108,7 +108,7 @@ deploy:
 # # markdown 解析配置
 markdown:
   plugins:
-    - '@ruanyf/markdown-it-katex'
+    - '@traptitech/markdown-it-katex'
 
 # markdown:
 #   preset: 'default'

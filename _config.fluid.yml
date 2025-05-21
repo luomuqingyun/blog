@@ -20,7 +20,7 @@
 
 markdown:
   plugins:
-    - '@ruanyf/markdown-it-katex'
+    - '@traptitech/markdown-it-katex'
 
 # markdown:
   # preset: 'default'
@@ -31,7 +31,7 @@ markdown:
   #   linkify: true
   #   typographer: true
   # plugins:
-  #   - '@iktakahiro/markdown-it-katex'
+  #   - '@traptitech/markdown-it-katex'
   # anchors:
   #   level: 2
   #   collisionSuffix: ''
