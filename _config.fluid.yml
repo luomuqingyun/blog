@@ -776,11 +776,14 @@ post:
 
   # 数学公式，开启之前需要更换 Markdown 渲染器，否则复杂公式会有兼容问题，具体请见：https://hexo.fluid-dev.com/docs/guide/##latex-数学公式
   # Mathematical formula. If enable, you need to change the Markdown renderer, see: https://hexo.fluid-dev.com/docs/en/guide/#math
+  # 
+  # 使用了hexo-filter-mathjax，可以不启用这里，设置详见：https://github.com/next-theme/hexo-filter-mathjax
+  # 不管用何种渲染器旧文章的复杂公式都解析不了，需要更改原文档内容，对部分符号进行转义
   math:
     # 开启后文章默认可用，自定义页面如需使用，需在 Front-matter 中指定 `math: true`
     # If you want to use math on the custom page, you need to set `math: true` in Front-matter
-    # enable: false
-    enable: true
+    enable: false
+    # enable: true
 
     # 开启后，只有在文章 Front-matter 里指定 `math: true` 才会在文章页启动公式转换，以便在页面不包含公式时提高加载速度
     # If true, only set `math: true` in Front-matter will enable math, to load faster when the page does not contain math
