@@ -1052,8 +1052,8 @@ about:
     # - { class: "iconfont icon-wechat-fill",  tip: "WeChat", data-qrcode: "img/WeChat.jpg" }
     # - { class: "iconfont icon-wechat-fill", link: "https://cloudflare-imgbed-40g.pages.dev/file/1747669616772_一颗糯米2.jpg",tip: "WeChat" }
     # - { class: "iconfont icon-wechat-fill", link: "https://raw.githubusercontent.com/luomuqingyun/pic/main/img/202410291612312.png",tip: "WeChat" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/一颗糯米1.jpg" }
     - { class: "iconfont icon-wechat2-fill", qrcode: "/img/落木青云2.jpg" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/一颗糯米1.jpg" }    
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/351764401?spm_id_from=333.1007.0.0", tip: "Bilibili" }
 
 
