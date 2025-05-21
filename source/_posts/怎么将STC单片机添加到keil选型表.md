@@ -5,6 +5,7 @@ author: luomuqingyun
 comments: true
 category:
   - 编程
+  - 单片机
 tags:
   - 编程经验
 excerpt:
