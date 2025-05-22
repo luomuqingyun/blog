@@ -105,6 +105,40 @@ deploy:
   repo: git@github.com:luomuqingyun/luomuqingyun.github.io.git
   branch: main
 
+
+# markdown 解析配置
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+
+  mathjax:
+  tags: none
+  single_dollars: true
+  cjk_width: 0.9
+  normal_width: 0.6
+  append_css: true
+  every_page: false
+  extension_options:
+    tex:
+      extension: '.html'
+    svg:
+      fontCache: 'global'
+
 # # markdown 解析配置
 # markdown:
 #   plugins:
@@ -129,3 +163,12 @@ deploy:
 #     permalinkSymbol: '¶'
 #     case: 0
 #     separator: '-'
+
+# Generate categories from directory-tree
+# Dependencies: https://github.com/xu-song/hexo-auto-category
+# depth: the depth of directory-tree you want to generate, should > 0
+# 使用说明：https://blog.eson.org/pub/e2f6e239/
+auto_category:
+ enable: true
+#  设置分类目录等级
+ depth: 3

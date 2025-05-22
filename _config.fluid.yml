@@ -16,43 +16,6 @@
 # Global
 #---------------------------
 
-# markdown 解析配置
-# markdown:
-#   plugins:
-#     - '@traptitech/markdown-it-katex'
-
-markdown:
-  preset: 'default'
-  render:
-    html: true
-    xhtmlOut: false
-    breaks: true
-    linkify: true
-    typographer: true
-  plugins:
-  anchors:
-    level: 2
-    collisionSuffix: ''
-    permalink: false
-    permalinkClass: 'header-anchor'
-    permalinkSide: 'left'
-    permalinkSymbol: '¶'
-    case: 0
-    separator: '-'
-
-  mathjax:
-  tags: none
-  single_dollars: true
-  cjk_width: 0.9
-  normal_width: 0.6
-  append_css: true
-  every_page: false
-  extension_options:
-    tex:
-      extension: '.html'
-    svg:
-      fontCache: 'global'
-
 # 用于浏览器标签的图标
 # Icon for browser tab
 # favicon: /img/fluid.png
@@ -553,7 +516,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "做一个有趣的灵魂"
+    text: "世人之所累者，情钱也。故坦坦荡荡做人，堂堂正正赚钱"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
@@ -613,7 +576,7 @@ post:
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img:
+  default_index_img: /img/wallhaven-2yp6gg.png
 
   # 文章标题下方的元信息
   # Meta information below title
