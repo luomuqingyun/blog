@@ -126,23 +126,25 @@ markdown:
     case: 0
     separator: '-'
 
-  mathjax:
-  tags: none
-  single_dollars: true
-  cjk_width: 0.9
-  normal_width: 0.6
-  append_css: true
-  every_page: false
-  extension_options:
-    tex:
-      extension: '.html'
-    svg:
-      fontCache: 'global'
+  # mathjax:
+  # tags: none
+  # single_dollars: true
+  # cjk_width: 0.9
+  # normal_width: 0.6
+  # append_css: true
+  # every_page: false
+  # extension_options:
+  #   tex:
+  #     extension: '.html'
+  #   svg:
+  #     fontCache: 'global'
+
+
 
 # markdown 解析配置
-markdown:
-  plugins:
-    - '@traptitech/markdown-it-katex'
+# markdown:
+#   plugins:
+#     - '@traptitech/markdown-it-katex'
 
 
 # markdown:
