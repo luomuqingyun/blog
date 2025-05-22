@@ -8,7 +8,6 @@ tags:
   - 编程经验
 excerpt:
   - 浅谈AI
-categories: []
 date: 2025-05-19 14:42:00
 ---
 

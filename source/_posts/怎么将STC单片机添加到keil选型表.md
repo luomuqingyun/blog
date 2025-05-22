@@ -9,7 +9,6 @@ tags:
   - 编程经验
 excerpt:
   - STC单片机配置
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## 使用keil新建工程时怎么没有STC芯片型号

@@ -12,7 +12,6 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## 串级PID控制器

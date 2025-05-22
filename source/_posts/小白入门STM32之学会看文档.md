@@ -10,7 +10,6 @@ tags:
   - STM32
 excerpt:
   - 快速入门STM32
-categories: []
 date: 2025-05-19 14:42:00
 ---
 `[TOC]`

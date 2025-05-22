@@ -10,7 +10,6 @@ tags:
   - STM32
 excerpt:
   - STM32启动程序
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## 如何获取STM32启动文件

@@ -9,7 +9,6 @@ tags:
   - 编程经验
 excerpt:
   - C语言指针知识
-categories: []
 date: 2025-05-19 14:42:00
 ---
 哈

@@ -9,7 +9,6 @@ tags:
   - 编程经验
 excerpt:
   - 初学者keil使用常见问题
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## 几篇keil使用问题的文章

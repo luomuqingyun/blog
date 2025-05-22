@@ -10,7 +10,6 @@ tags:
   - STM32
 excerpt:
   - STM32数据
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## 存储器的大小端

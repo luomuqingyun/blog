@@ -10,7 +10,6 @@ tags:
   - STM32
 excerpt:
   - STM32内存
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ## STM32系统构架

@@ -8,7 +8,6 @@ tags:
   - 技术原理
 excerpt:
   - 单片机CAN总线知识
-categories: []
 date: 2025-05-19 14:42:00
 ---
 ![](https://files.mdnice.com/user/38598/ab6dc1e1-ff02-46f9-863f-9a2eb0f39eda.png)

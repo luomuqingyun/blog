@@ -18,8 +18,12 @@ hide: false
 archive: false
 # 安装 hexo-generator-index >= 2.0.0 版本时可设置首页排序等级
 # sticky: 100
-category: []
-tags: []
+# 侧边栏展示当前分类下的文章
+category_bar: true
+# 分类
+category: [HEXO,TEST]
+# 标签
+tags: [工具，日常]
 excerpt:
     - 
 ---
