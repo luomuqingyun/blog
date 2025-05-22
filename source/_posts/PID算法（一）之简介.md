@@ -1,9 +1,7 @@
 ---
 title: PID算法（一）之简介
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
-# mathjax: true
 math: true
 mermaid: true
 category:
@@ -14,6 +12,8 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ### PID算法原理
 PID(比例-积分-微分)算法是一种广泛应用于工业过程控制的线性控制算法，大多数与控制相关的电器设备都有它的身影。它根据系统的测量值和目标值的误差,产生控制输出来驱动被控系统朝目标状态移动。

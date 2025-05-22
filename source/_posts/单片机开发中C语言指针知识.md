@@ -1,6 +1,5 @@
 ---
 title: 单片机开发中C语言指针知识
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -10,6 +9,8 @@ tags:
   - 编程经验
 excerpt:
   - C语言指针知识
+categories: []
+date: 2025-05-19 14:42:00
 ---
 哈
 ## 指针，初学者的梦魇

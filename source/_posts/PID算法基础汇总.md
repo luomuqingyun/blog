@@ -1,6 +1,5 @@
 ---
 title: PID算法基础汇总
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -11,6 +10,8 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ## PID算法基础汇总
 

@@ -1,6 +1,5 @@
 ---
 title: C语言初学者可以利用的帮助文档
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -10,6 +9,8 @@ tags:
   - 编程经验
 excerpt:
   - C语言参考资料
+categories: []
+date: 2025-05-19 14:42:00
 ---
 占位
 ## 善用官方文档解惑

@@ -1,9 +1,7 @@
 ---
 title: PID算法（七）之自适应控制
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
-# mathjax: true
 math: true
 mermaid: true
 category:
@@ -14,6 +12,8 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ## 参数自整定
 

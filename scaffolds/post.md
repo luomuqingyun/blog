@@ -1,4 +1,5 @@
 ---
+# 注意：注释内容并不会在新建文档中出现！！！
 title: {{ title }}
 date: {{ date }}
 author: luomuqingyun
@@ -9,12 +10,12 @@ banner_img: /img/banner_img/default.jpg
 comments: true
 # mathjax可以不用设置，设置math即可
 # mathjax: true 
-# math: true
-# mermaid: true
+math: true
+mermaid: true
 # 设置不在首页和其他归档分类页里展示
-# hide: false 
+hide: false 
 # 不想隐藏，只是不想在首页显示，设置archive
-# archive: true
+archive: false
 # 安装 hexo-generator-index >= 2.0.0 版本时可设置首页排序等级
 # sticky: 100
 category: []

@@ -139,10 +139,11 @@ markdown:
     svg:
       fontCache: 'global'
 
-# # markdown 解析配置
-# markdown:
-#   plugins:
-#     - '@traptitech/markdown-it-katex'
+# markdown 解析配置
+markdown:
+  plugins:
+    - '@traptitech/markdown-it-katex'
+
 
 # markdown:
 #   preset: 'default'
@@ -168,7 +169,7 @@ markdown:
 # Dependencies: https://github.com/xu-song/hexo-auto-category
 # depth: the depth of directory-tree you want to generate, should > 0
 # 使用说明：https://blog.eson.org/pub/e2f6e239/
-auto_category:
- enable: true
-#  设置分类目录等级
- depth: 3
+# auto_category:
+#  enable: true
+# #  设置分类目录等级
+#  depth: 3

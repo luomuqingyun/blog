@@ -1,6 +1,5 @@
 ---
 title: 快速将工程导入ECloudSpace
-date: 2025-05-19 16:36:43
 author: luomuqingyun
 comments: true
 category:
@@ -10,6 +9,8 @@ tags:
   - 开发工具
 excerpt:
   - 单片机学习开发一体化平台使用说明
+categories: []
+date: 2025-05-19 16:36:43
 ---
 ## 为什么要拥抱HAL库
 

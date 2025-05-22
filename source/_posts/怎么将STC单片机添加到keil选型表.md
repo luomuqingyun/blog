@@ -1,6 +1,5 @@
 ---
 title: 怎么将STC单片机添加到keil选型表
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -10,6 +9,8 @@ tags:
   - 编程经验
 excerpt:
   - STC单片机配置
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ## 使用keil新建工程时怎么没有STC芯片型号
 对于很多初学者来说，刚开始接触51单片机时可能是使用proteus等仿真软件进行仿真学习的，在建立keil工程时也是选用课本上对应的51单片机型号进行编程。

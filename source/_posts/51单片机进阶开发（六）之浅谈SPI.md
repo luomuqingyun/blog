@@ -1,6 +1,5 @@
 ---
 title: 51单片机进阶开发（六）之浅谈SPI
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -11,6 +10,8 @@ tags:
   - C51
 excerpt:
   - C51单片机SPI通信
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ![关注，了解更多知识](https://files.mdnice.com/user/38598/6816d023-b102-440f-8ad0-095db85b4f5d.png)
 ## SPI总线初识

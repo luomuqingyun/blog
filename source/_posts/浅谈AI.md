@@ -1,6 +1,5 @@
 ---
 title: 浅谈AI
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -9,6 +8,8 @@ tags:
   - 编程经验
 excerpt:
   - 浅谈AI
+categories: []
+date: 2025-05-19 14:42:00
 ---
 
 ## 火热的ChatGPT

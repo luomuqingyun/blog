@@ -1,9 +1,7 @@
 ---
 title: PID算法（二）之位置PID与增量PID
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
-# mathjax: true
 math: true
 mermaid: true
 category:
@@ -14,6 +12,8 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ## PID算法应用公式演化
 上一片文章内容介绍了PID算法的概况和调参说明以及一些动图演示，这篇文章我们一起来来了解一下两种常用的简单PID算法结构——位置式PID与增量式PID。熟悉这两种算法结构后，后面的文章再介绍一些更为复杂的改进算法。

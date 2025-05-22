@@ -1,6 +1,5 @@
 ---
 title: 关于TI官网注册和网页版Filter Pro使用的问题
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -9,6 +8,8 @@ tags:
   - 开发工具
 excerpt:
   - Filter Pro软件说明
+categories: []
+date: 2025-05-19 14:42:00
 ---
 占位
 ## 关于Filter Pro软件电路参数问题

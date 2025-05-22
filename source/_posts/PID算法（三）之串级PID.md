@@ -1,9 +1,7 @@
 ---
 title: PID算法（三）之串级PID
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
-# mathjax: true
 math: true
 mermaid: true
 category:
@@ -14,6 +12,8 @@ tags:
   - 算法应用
 excerpt:
   - PID算法
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ## 串级PID控制器
 串级PID控制是指将二个或多个PID控制器串级连接，以实现更复杂的控制效果，类似平时设计的串级滤波器电路，它通常应用于需要高精度控制的场合，比如机器人、无人机的控制中的马达转速与位置调节，高精度加热设备中的加热器工作功率与被加热物体温度控制等等。

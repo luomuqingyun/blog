@@ -1,6 +1,5 @@
 ---
 title: windows玩机技巧
-date: 2025-05-19 14:42:00
 author: luomuqingyun
 comments: true
 category:
@@ -9,6 +8,8 @@ tags:
   - 日常经验
 excerpt:
   - 电脑使用技巧
+categories: []
+date: 2025-05-19 14:42:00
 ---
 ![关注，了解更多知识](https://files.mdnice.com/user/38598/6816d023-b102-440f-8ad0-095db85b4f5d.png)
 ## 分享几个windows玩机技巧
