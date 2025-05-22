@@ -6,7 +6,6 @@ comments: true
 # mathjax: true
 math: true
 mermaid: true
-sidebar: [toc, tags, category] 
 category:
   - 编程
   - 算法
