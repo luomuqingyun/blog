@@ -21,9 +21,9 @@ archive: false
 # 侧边栏展示当前分类下的文章
 category_bar: true
 # 分类
-category: [HEXO,TEST]
+category: []
 # 标签
-tags: [工具，日常]
+tags: []
 excerpt:
     - 
 ---
