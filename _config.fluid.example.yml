@@ -823,7 +823,7 @@ disqus:
 # See: https://github.com/gitalk/gitalk#options
 gitalk:
   clientID: Ov23liXRfNsKZNAikfV6
-  clientSecret: 2377653165d84668fc4043ed841457869ad2a4a6
+  clientSecret: ''
   repo: luomuqingyun.github.io
   owner: luomuqingyun
   admin: ['luomuqingyun']
