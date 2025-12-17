@@ -31,6 +31,11 @@ jobs:
         run: |
           npm install -g hexo-cli  
           npm install
+      
+      - name: Create and Configure Theme Config
+        run: |
+          cp _config.fluid.example.yml _config.fluid.yml
+          sed -i 's/clientSecret: .*/clientSecret: ${{ secrets.GITALK_CLIENT_SECRET }}/' _config.fluid.yml
         
       - name: Build
         # working-directory: ./blog
