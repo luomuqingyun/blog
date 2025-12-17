@@ -37,6 +37,7 @@ git add --ignore-errors       # 忽略错误继续添加
 git commit -m "message"       # 提交并添加消息
 git commit -am "message"      # 添加已跟踪文件并提交
 git commit --amend           # 修改最后一次提交
+git commit --amend --no-edit # 修改最后一次提交，不修改提交信息
 git commit --amend -m "new"  # 修改最后一次提交消息
 git commit --no-verify       # 跳过 pre-commit 钩子
 git commit --allow-empty     # 允许空提交
